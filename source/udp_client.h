@@ -5,7 +5,7 @@
 *              UDP client operation.
 *
 *******************************************************************************
-* $ Copyright 2021 Cypress Semiconductor $
+* $ Copyright 2021-2023 Cypress Semiconductor $
 *******************************************************************************/
 
 #ifndef UDP_CLIENT_H_
